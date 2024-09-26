@@ -1,2 +1,3 @@
 # AxiesGame
 Pagina Web Desarrollada en Laravel para publicar NFTs colleciones y demas... 
+![image](https://github.com/user-attachments/assets/77121464-2fc9-4ddc-b2cf-71d00b718d17)
